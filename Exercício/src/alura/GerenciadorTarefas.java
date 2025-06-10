@@ -1,10 +1,10 @@
 package alura;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Scanner;
-import java.util.Stack;
+import java.util.ArrayList; //lista dinâmica
+import java.util.LinkedList; // lista encadeada ou fila (Queue)
+import java.util.Queue; // fila: primeiro a entrar, primeiro a sair
+import java.util.Scanner; //ler dados digitados pelo usuário no console
+import java.util.Stack; // pilha (LIFO): último a entrar, primeiro a sair
 
 public class GerenciadorTarefas {
     // Vetor para tarefas prioritárias (tamanho fixo 10)
